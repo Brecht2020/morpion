@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Help Minimax", "Help Minimax", "{9A7361E0-9D42-41D9-A045-096A4D4256E5}"
+	ProjectSection(SolutionItems) = preProject
+		HelpMinimax\HlpMinimax.htm = HelpMinimax\HlpMinimax.htm
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morpion", "Morpion\Morpion.csproj", "{815F5360-9416-4A16-9F5B-2498CDC1E7A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorpionGame", "MorpionGame\MorpionGame.csproj", "{102842B5-3F1A-4A4E-9861-060650F00881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815F5360-9416-4A16-9F5B-2498CDC1E7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815F5360-9416-4A16-9F5B-2498CDC1E7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815F5360-9416-4A16-9F5B-2498CDC1E7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815F5360-9416-4A16-9F5B-2498CDC1E7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102842B5-3F1A-4A4E-9861-060650F00881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102842B5-3F1A-4A4E-9861-060650F00881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102842B5-3F1A-4A4E-9861-060650F00881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102842B5-3F1A-4A4E-9861-060650F00881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5036D2A-FF68-48B9-AEAF-02A95EB021D2}
+	EndGlobalSection
+EndGlobal
